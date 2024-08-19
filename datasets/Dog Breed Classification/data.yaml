@@ -1,0 +1,10 @@
+
+train: ../datasets/Dog Breed Classification/train
+val: ../datasets/Dog Breed Classification/val
+test: ../datasets/Dog Breed Classification/test
+
+# number of classes
+nc: 4
+
+# class names
+names: ['beagle', 'border_collie', 'golden_retriever', 'samoyed']
